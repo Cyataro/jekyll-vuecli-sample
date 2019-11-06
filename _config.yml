@@ -1,0 +1,2 @@
+exclude: [tests]
+keep_files: [.git, _site/packs]

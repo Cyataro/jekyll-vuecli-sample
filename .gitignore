@@ -1,0 +1,29 @@
+.DS_Store
+node_modules
+/vendor
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.bundle
+
+#jekyll output dir
+_site
+
+#webpack output dir
+source/_data/manifest.json
